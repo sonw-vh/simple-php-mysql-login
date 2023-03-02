@@ -11,7 +11,7 @@
         <div class="container">
             <div class="screen">
                 <div class="screen__content">
-                    <form class="login" method="post" action="login.php">
+                    <form class="login" method="post" action="loginsec.php">
                         <div class="login__field">
                             <i class="login__icon fas fa-user"></i>
                             <input type="text" class="login__input" placeholder="Username" name="username" required>

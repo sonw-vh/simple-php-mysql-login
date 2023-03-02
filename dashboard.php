@@ -15,7 +15,7 @@ $username = $_SESSION['username'];
 	<title>Dashboard</title>
 </head>
 <body>
-	<h1>Welcome, <?php echo $username; ?>!</h1>
+	<h1>Welcome, <?php echo $username?>!</h1>
 	<a href="logout.php">Logout</a>
 </body>
 </html>
